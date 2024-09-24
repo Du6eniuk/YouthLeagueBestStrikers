@@ -39,7 +39,7 @@ This project focuses on collecting and analyzing data from the **UEFA Youth Leag
 ## ✅ **Results**
 The project successfully fetches and processes data for the UEFA Youth League. Due to the lack of comprehensive data on assists and cards, the focus will remain on goal-scoring statistics for a thorough evaluation of player performance.
 
-![Patterns in US Flight Cancellations and Delays (2022)](Viz\Top_goal_scorers.png)
+![Patterns in US Flight Cancellations and Delays (2022)](Viz/Top_goal_scorers.png)
 ### 🎯 Key Insights:
 1. **Top Goal Scorers:**
    - The chart shows that **J. Rijkhoff**, **Bilal Mazhar**, and **M. Meerdink** lead with **9 goals each**.
