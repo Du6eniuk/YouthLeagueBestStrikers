@@ -1,0 +1,2 @@
+https://www.api-football.com/pricing
+BetsAPI
